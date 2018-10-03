@@ -18,5 +18,6 @@
   "homepage": "https://github.com/OlafurAO/lab08#readme",
   "devDependencies": {
     "jest": "^23.6.0"
-  }
+  },
+  "dependencies": {}
 }
